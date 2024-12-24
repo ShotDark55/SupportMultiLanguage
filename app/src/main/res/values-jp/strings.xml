@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="app_name">多言語対応</string>
+    <string name="signup">サインアップ</string>
+    <string name="firstname">ファーストネーム ：</string>
+    <string name="lastname">苗字 ：</string>
+    <string name="age"><i>年 ：</i></string>
+    <string name="email"><b>メールアドレス:</b></string>
+    <string name="password"><b></b></string>
+    <string name="login"><b><i>パスワード:</i></b></string>
+    <string name="forget_password"><u>パスワードを忘れましたか？</u></string>
+
+
+    <string name="text_1">
+        このアプリは、言語の違いと、string.xmlとdimens.xmlの使い方を示すために作成されました
+    </string>
+
+    <string name="text_2">
+             設定で言語をアラビア語か日本語に変更してください
+        とにかく言語を変更したい場合は
+        他の言語に変更してください
+        デフォルトの言語は英語です
+    </string>
+</resources>

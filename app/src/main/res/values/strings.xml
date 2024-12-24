@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="app_name">SupportMultiLanguage</string>
+    <string name="signup">SignUp</string>
+    <string name="firstname">firstname : </string>
+    <string name="lastname">lastname : </string>
+    <string name="age"><i>age : </i></string>
+    <string name="email"><b>email : </b></string>
+    <string name="password"><b>password : </b></string>
+    <string name="login"><b><i>Login</i></b></string>
+    <string name="forget_password"><u> forget password ?</u></string>
+    <string name="hint_email" translatable="false">example@gmail.com</string>
+    <string name="hint_password" translatable="false">**********</string>
+
+    <string name="text_1">
+        this app create to show deference
+        between language and how to use string.xml and dimens.xml
+    </string>
+
+    <string name="text_2">
+        please change language in settings
+        to arabic or japans
+        any way if you want to change language
+        to other language i tell you
+        default language is english
+    </string>
+</resources>

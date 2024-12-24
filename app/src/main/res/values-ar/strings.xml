@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+
+        <string name="app_name">دعم مختلف اللغات</string>
+        <string name="signup">تسجيل دخول</string>
+        <string name="firstname">الإسم :</string>
+        <string name="lastname">اللقب :</string>
+        <string name="age"><i>العمر :  </i></string>
+        <string name="email"><b>بريد إلكتروني :  </b></string>
+        <string name="password"><b>كلمة المرور : </b></string>
+        <string name="login"><b><i>تسجيل</i></b></string>
+        <string name="forget_password"><u>نسية كلمة السر ؟</u></string>
+
+        <string name="text_1">
+        تم إنشاء هذا التطبيق لإظهار الفرق بين اللغة وكيفية استخدام string.xml و dimens.xml
+    </string>
+
+        <string name="text_2">
+                        يرجى تغيير اللغة في الإعدادات
+            إلى العربية أو اليابانية
+            على أي حال إذا كنت تريد تغيير اللغة
+            إلى لغة أخرى أقول لك
+            اللغة الافتراضية هي الإنجليزية
+    </string>
+    </resources>
+
